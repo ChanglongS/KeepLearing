@@ -279,34 +279,6 @@ python val.py --data data/mask_data.yaml --weights runs/train/exp_yolov5s/weight
 
 ![image-20211212194914890](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20211212194914890.png)
 
-## 找到我
-
-你可以通过这些方式来寻找我。
-
-B站：[肆十二-](https://space.bilibili.com/161240964)
-
-CSDN：[肆十二](https://blog.csdn.net/ECHOSON)
-
-知乎：[肆十二 ](https://www.zhihu.com/people/song-chen-ming-28)
-
-微博：[肆十二-](https://weibo.com/u/5999979327)
-
-现在关注以后就是老朋友喽！
-
-![image-20211212195912911](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20211212195912911.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
